@@ -7,3 +7,4 @@ ChinesePod
  D0206 Discussing Photography.html
  D0215 Views on the News.html
 
+Все файлы разбиты по уровням сложности, а внутри уровней по типам (подкаст, тескт, ...) 
