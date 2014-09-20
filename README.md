@@ -4,7 +4,7 @@ ChinesePod
 Скрипт переименования файлов и изменения структуры папок.
 
 После переименования файлы получаются с такими именами:
- D0206 Discussing Photography.html
- D0215 Views on the News.html
+* D0206 Discussing Photography.html
+* D0215 Views on the News.html
 
 Все файлы разбиты по уровням сложности, а внутри уровней по типам (подкаст, тескт, ...) 
